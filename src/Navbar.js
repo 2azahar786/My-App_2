@@ -10,6 +10,7 @@ return(
         <li>About Us</li>
         <li>Our Services</li>
         <li>Contact Us</li>
+        <li>Careers</li>
     </ul>
 </nav>
 )
